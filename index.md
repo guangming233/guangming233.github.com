@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+###背景故事
+在诺克萨斯，有一种战士被称为“清算人”。他们在竞技场里互相厮杀，以鲜血作为赌注进行力量的考验，不过没有任何人能像德莱文那样受人追捧。曾经参过军的他，发现竞技场的观众们尤为喜爱他的耀武扬威和刻意表演，和他使用飞斧的无匹技艺。这种狂傲的完美带来的赞叹令他上瘾，因此德莱文发誓要不惜代价打败任何对手，以此确保自己的名字在帝国之中永世传唱。
 
-You can use the [editor on GitHub](https://github.com/guangming233/guangming233.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###英雄技能
+德莱文联盟被动技能
+德莱文在每次击杀一个非英雄单位或防御塔、接住一把旋转飞斧时会获得1层效果，并且在不接丢一把旋转飞斧的前提下连杀6个小兵时会获得2层效果。 德莱文在击杀一名英雄后，会获得25+2X效果层数的金币。德莱文在阵亡时会损失75%的层数。
+旋转飞斧快捷键：Q
+德莱文准备好一把旋转飞斧，使他的下一次攻击造成额外的(35/40/45/50/55 +65%/75%/85%/95%/105%额外AD)物理伤害然后弹到空中。如果德莱文接住了它，那么他会准备好另一把旋转飞斧。 德莱文可以同时持有2把旋转飞斧。
+血性冲刺快捷键：W
+德莱文进入幽灵状态，获得在1.5秒里持续衰减的(50%/55%/60%/65%/70%)移动速度和持续3秒的(20%/25%/30%/35%/40%)攻击速度。 当德莱文接住一把旋转飞斧时，这个技能的冷却时间就会刷新。 [幽灵]状态的单位能够无视其他单位的碰撞体积。
+开道利斧快捷键：E
+德莱文抛掷一柄开山斧，造成(75/110/145/180/215 +50%额外AD)物理伤害，击退，以及持续2秒的(20%/25%/30%/35%/40%)减速。
+冷血追命快捷键：R
+德莱文猛掷出两把巨斧来造成(175/275/375 +(110%/130%/150%)额外AD)物理伤害。在命中一名英雄或再次施放之后，巨斧会掉转方向并返回德莱文处。巨斧每命中一个敌人就会降低8%伤害，最低降至40%。 伤害衰减会在折返时重置。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###使用技巧
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+###推荐符文
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+###英雄出装
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guangming233/guangming233.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
